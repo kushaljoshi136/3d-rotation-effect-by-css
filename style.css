@@ -146,6 +146,9 @@ header img{
     header .left{
         text-align: center;
     }
+    .hero-container .product{
+        width: 200px;
+    }
     .hero-container .product .soda{
         width: 200px;
         bottom: -40px;
@@ -176,6 +179,9 @@ header img{
     }
     header .left{
         text-align: center;
+    }
+    .hero-container .product{
+        width: 200px;
     }
     .hero-container .product .soda{
         width: 200px;
