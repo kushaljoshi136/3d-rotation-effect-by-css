@@ -148,10 +148,14 @@ header img{
     }
     .hero-container .product{
         width: 200px;
+        transition: 1.7s;
     }
     .hero-container .product .soda{
         width: 200px;
         bottom: -40px;
+    }
+    .hero-container .rock img{
+        transition: 1.7s;
     }
     .hero-container .rock img:nth-child(1){
         left: 50%;
@@ -182,10 +186,14 @@ header img{
     }
     .hero-container .product{
         width: 200px;
+        transition: 1.7s;
     }
     .hero-container .product .soda{
         width: 200px;
         bottom: -40px;
+    }
+    .hero-container .rock img{
+        transition: 1.7s;
     }
     .hero-container .rock img:nth-child(1){
         left: 50%;
