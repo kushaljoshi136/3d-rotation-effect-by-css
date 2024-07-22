@@ -71,7 +71,7 @@ header img{
     transform: translateX(-50%);
     bottom: 170px;
     z-index: 1;
-    transition: 0.7s;
+    transition: 0.7s linear;
     --left:0;
     display: flex;
 }
